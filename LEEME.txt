@@ -1,0 +1,20 @@
+ACTIVIDAD 3: ALGORITMO GENÉTICO, PROBLEMA DE LA MOCHILA
+
+1. Instala Python 3 y abre esta carpeta en VS Code (o una terminal).
+2. En la terminal ejecuta: python -m pip install -r requirements.txt
+3. Edita config.json para cambiar población, generaciones, probabilidades o semilla.
+4. Ejecuta: python algoritmo_genetico.py
+5. Se mostrará el mejor resultado y se creará la imagen convergencia.png.
+
+El programa utiliza 10 objetos, capacidad 15 y codificación binaria.
+La función de aptitud devuelve el valor de objetos seleccionados si el peso
+no supera la capacidad; en caso contrario devuelve cero.
+La selección es por ruleta, el cruce es en un punto y la mutación invierte bits.
+Se conserva el mejor individuo de cada generación (elitismo).
+
+IMPORTANTE: ejecución y gráfica se guardan en el directorio desde donde
+se ejecuta Python; por eso abre la terminal en esta carpeta.
+
+La gráfica muestra el mejor valor acumulado por generación. La 'primera
+generación con el mejor valor final' no demuestra que el algoritmo haya
+alcanzado el óptimo ni es equivalente a una prueba estadística de convergencia.
