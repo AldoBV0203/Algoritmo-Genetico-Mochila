@@ -1,8 +1,4 @@
-"""Actividad 4: experimentos reproducibles con el algoritmo genético de mochila.
-
-Colocar este archivo junto a algoritmo_genetico.py y ejecutar:
-    python experimentos.py
-"""
+#Actividad 4: experimentos reproducibles con el algoritmo genético de mochila.
 
 import csv
 import random
