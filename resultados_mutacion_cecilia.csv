@@ -1,0 +1,4 @@
+﻿prueba,mutacion,peso,mejor_valor,valor_optimo,tiempo
+Mutacion 1%,0.01,15,39,40,0.0714
+Mutacion 5%,0.05,15,40,40,0.07891
+Mutacion 10%,0.1,15,40,40,0.06764
