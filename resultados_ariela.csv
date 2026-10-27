@@ -1,0 +1,4 @@
+﻿prueba,poblacion,generaciones,semilla,peso,capacidad,mejor_valor,valor_optimo,diferencia,estado,tiempo_segundos
+Original,20,40,42,15,15,40,40,0,Valida,0.0662
+Poblacion_reducida,10,40,42,15,15,40,40,0,Valida,0.01827
+Mas_generaciones,20,100,42,15,15,40,40,0,Valida,0.15127
