@@ -1,0 +1,5 @@
+﻿configuracion,poblacion,probabilidad_cruce,probabilidad_mutacion,ejecuciones,promedio_mejor_aptitud,desviacion_estandar_muestral,mejor_valor,peor_valor,optimos_encontrados,tiempo_promedio_segundos,diversidad_final_promedio_porcentaje
+A,10,0.6,0.01,5,38,1.225,40,37,1,0.011574,22.0
+B,40,0.6,0.01,5,39.6,0.548,40,39,3,0.143666,19.5
+C,10,0.6,0.1,5,39.4,0.548,40,39,2,0.013909,90.0
+D,10,0.9,0.01,5,38.4,1.14,40,37,1,0.012165,32.0
